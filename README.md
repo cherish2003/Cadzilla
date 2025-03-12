@@ -1,6 +1,6 @@
-### CADzilla
+# ** CADzilla
 
-# **3D Model Uploader & Viewer**  
+### 3D Model Uploader & Viewer**  
 
 🚀 A **React & express 3D model uploader and viewer** that allows users to upload, preview, manipulate, and manage **STL** and **OBJ** files interactively.
 
